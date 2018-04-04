@@ -1,3 +1,7 @@
+# DeepHack Chat 2018
+
+TBA
+
 # DeepHack Babel 2018
 http://babel.tilda.ws
 
@@ -12,5 +16,3 @@ http://qa.deephack.me/
 
 # DeepHack Game 2015
 http://game.deephack.me/
-
-# DeepHack Chat
